@@ -11,6 +11,7 @@ import csv
 decision=50
 flag=10
 print("HI")
+print("Ненужный текст")
 print("\n")
 print("This is rps game. Rules are simple: rock beats scissors, scissors beat paper and paper beats rock")
 print("\n")
